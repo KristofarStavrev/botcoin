@@ -19,5 +19,8 @@ Botcoin is a simple algorithmic cryptocurrency [trading bot](https://www.investo
 - Explore for other [DeFi](https://www.investopedia.com/decentralized-finance-defi-5113835) opportunities that can be incorporated in functionality of the trading bot.
 
 ## To run the program
+1. Clone the repository `git clone https://github.com/KrythonS/botcoin.git`.
+2. Install dependencies `pip install poloniex` (library used for the API connection).
+3. Run the script `Botcoin.py`.
 
 ## Visual examples of the program
