@@ -7,7 +7,7 @@ BotCoin is an algorithmic cryptocurrency [trading bot](https://www.investopedia.
 
 ## Main features
 - The bot supports the functionality for both real-time live trading simulation and historical backtesting with built in basic trading strategies using indicators for technical analysis.
-- Algo-trading can be backtested using available historical and real-time data to see if it is a viable trading strategy.
+- Algo-trading can be backtested using available historical and real-time data to find the most efficient trading strategy.
 - Simultaneous automated checks on multiple market conditions.
 - Trades are timed correctly and instantly to avoid significant price changes.
 - Trade order placement is instant and accurate (there is a high chance of execution at the desired levels).
