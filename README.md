@@ -1,7 +1,7 @@
-# Botcoin
+# BotCoin
 
 ## Project Description
-Botcoin is a simple algorithmic cryptocurrency [trading bot](https://www.investopedia.com/articles/active-trading/101014/basics-algorithmic-trading-concepts-and-examples.asp) developed on Python. The main purpose of the program is to automate the execution of different trading strategies while also removing the risks of manual errors when placing trades and the possibility of mistakes based on emotional and psychological factors. The data collection process is done by using an API connection to a cryptocurrency market exchange ([Poloniex](https://poloniex.com/)).
+BotCoin is a simple algorithmic cryptocurrency [trading bot](https://www.investopedia.com/articles/active-trading/101014/basics-algorithmic-trading-concepts-and-examples.asp) developed on Python. The main purpose of the program is to automate the execution of different trading strategies while also removing the risks of manual errors when placing trades and the possibility of mistakes based on emotional and psychological factors. The data collection process is done by using an API connection to a cryptocurrency market exchange ([Poloniex](https://poloniex.com/)).
 
 **Note: The current version serves the purpose only as a simulation and does not support the opening of real trade positions.**
 
@@ -24,3 +24,18 @@ Botcoin is a simple algorithmic cryptocurrency [trading bot](https://www.investo
 3. Run the script `BotCoin.py`.
 
 ## Visual examples of the program
+
+### Image 1: Main Menu
+![alt text](https://i.ibb.co/xC14TYC/image1.png)
+
+### Image 2: Live Trading Mode Initializing
+![alt text](https://i.ibb.co/yPSB9nM/image2.png)
+
+### Image 3: Live Trading Mode Active
+![alt text](https://i.ibb.co/Tm75LVF/image3.png)
+
+### Image 4: Historical Backtesting
+![alt text](https://i.ibb.co/pjzccqg/image4.png)
+
+### Image 5: Historical Backtesting Results
+![alt text](https://i.ibb.co/2v7Vjn2/image5.png)
