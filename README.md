@@ -13,16 +13,10 @@ Botcoin is a simple algorithmic cryptocurrency [trading bot](https://www.investo
 - Trade order placement is instant and accurate (there is a high chance of execution at the desired levels).
 
 ## Future development oppurtunities
-lending(To do) and information gathering(To do).
-Currently works only on the Poloniex exchange
-More techical indicators
-More trading strategies
-Making multiple trades and having multiple open positions at the same time
-Automatic lending
-Other DEFI opportunities
-More information gathering from different sources
-
-Note: Current version does not place actual trades
+- Add more available exchanges and different sources for data collection.
+- Expand the range of trading stategies by also adding additional techical indicators.
+- Make it possible to have multiple open trade positions simultaniously.
+- Explore for other [DeFi](https://www.investopedia.com/decentralized-finance-defi-5113835) opportunities that can be incorporated in functionality of the trading bot.
 
 ## To run the program
 
