@@ -26,16 +26,16 @@ BotCoin is an algorithmic cryptocurrency [trading bot](https://www.investopedia.
 ## Visual examples of the program
 
 ### Image 1: Main Menu
-![alt text](https://i.ibb.co/xC14TYC/image1.png)
+![alt text](docs/img/image1.png)
 
 ### Image 2: Live Trading Mode Initializing
-![alt text](https://i.ibb.co/yPSB9nM/image2.png)
+![alt text](docs/img/image2.png)
 
 ### Image 3: Live Trading Mode Active
-![alt text](https://i.ibb.co/Tm75LVF/image3.png)
+![alt text](docs/img/image3.png)
 
 ### Image 4: Historical Backtesting
-![alt text](https://i.ibb.co/pjzccqg/image4.png)
+![alt text](docs/img/image4.png)
 
 ### Image 5: Historical Backtesting Results
-![alt text](https://i.ibb.co/2v7Vjn2/image5.png)
+![alt text](docs/img/image5.png)
